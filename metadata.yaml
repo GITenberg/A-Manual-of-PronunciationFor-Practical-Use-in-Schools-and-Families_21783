@@ -1,0 +1,32 @@
+_repo: A-Manual-of-PronunciationFor-Practical-Use-in-Schools-and-Families_21783
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ashmore, Otis
+    birthdate: 1853
+    gutenberg_agent_id: '24884'
+    url: http://www.gutenberg.org/2009/agents/24884
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2007-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21783'
+language: en
+publication_note: "Boston, U.S.A.\r\nGinn & Company, Publishers\r\nThe Athenæum Press"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Pronunciation'
+summary: Containing a Careful Selection of Words in the English Language Most Commonly
+  Mispronounced, together with their Pronunciation as Given by the Best Authorities
+  in England and America
+title: 'A Manual of Pronunciation
+
+  For Practical Use in Schools and Families'
+url: http://www.gutenberg.org/ebooks/21783
